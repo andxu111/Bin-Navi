@@ -16,8 +16,8 @@
     // D1数据库绑定
     "d1_databases": [
         {
-            "binding": "qiu",
-            "database_name": "navigation-db-local",
+            "binding": "DB",
+            "database_name": "qiu",
             "database_id": "43ff28e1-42d6-4e53-9657-0702ae1353b6"
         }
     ],
